@@ -10,9 +10,7 @@ public class Class {
 		int b = in.nextInt();
 		int c = a+b;
 		System.out.println("the sum of a and b "+c);
-		 
-		
-		
+		 	
 	}
 
 }
