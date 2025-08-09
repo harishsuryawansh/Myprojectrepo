@@ -2,10 +2,14 @@ package Main;
 
 import java.util.Scanner;
 
+
+
 public class Class {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		System.out.println("enter two number and any float number  ");
+		System.out.println("enter a user number ");
+		
 		double a= in.nextInt();
 		double b = in.nextInt();
 		double  c = a+b;
